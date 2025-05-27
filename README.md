@@ -2,7 +2,7 @@
 - 👀 I’m interested in MATHS AND CODING
 - 🌱 I’m currently learning WEB TECHNOLOGY
 - 💞️ I’m looking to collaborate on Devops
-- 📫 How to reach me through linkedin profile name(KISHOR GUNITHI)
+- 📫 How to reach me through **linkedin ** --- profile name(KISHOR GUNITHI)
 
 
 <!---
